@@ -1,0 +1,48 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="4DF5C0CD-DF98-44EA-990F-13EDD1826FBC" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="0AD52C3D-02C9-4E1E-AA4B-DE838FC9F749" controlTypeID="Image" x="0" y="0" w="360" h="640" zOrder="0">
+      <rotationAngle>TdOneHundredEighty</rotationAngle>
+      <URL>B9AABD6EE1CC4AE439C2B63F94794CE3.jpg</URL>
+    </control>
+    <control controlID="E95CC2DC-4CC5-4DD5-894A-7DF08D59B632" controlTypeID="Image" x="1" y="521" w="360" h="125" zOrder="1">
+      <URL>26514B4077AA79208C45064D0635775D.PNG</URL>
+    </control>
+    <control controlID="76B30FAE-014A-42F6-A664-5555B7234901" controlTypeID="Shape" x="0" y="482" w="360" h="40" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Type+here</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C97EBA64-3C6C-4AAB-9E93-36B1C93F34BB" controlTypeID="Label" x="318" y="492" w="33" h="19" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>60%3A00</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7E7AD503-016E-4997-9C39-B897BD2044C6" controlTypeID="Shape" x="120" y="231" w="132" h="43" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Random+color+display</text>
+      <selectedIndex>-1</selectedIndex>
+      <dashMode>SdDash</dashMode>
+      <radius>8</radius>
+    </control>
+    <control controlID="802DBB7E-8DBA-4154-9370-AFF6E69FAFF7" controlTypeID="TextInput" x="0" y="0" w="360" h="39" zOrder="5">
+      <color>4288282521</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BD%9A%E0%BD%BC%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%9E%E0%BD%B2%E0%BC%8B%E0%BD%82%E0%BD%B2%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BD%82%E0%BD%A6</text>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

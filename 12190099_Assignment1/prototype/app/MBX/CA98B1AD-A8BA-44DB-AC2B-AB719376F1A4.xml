@@ -1,0 +1,45 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="CA98B1AD-A8BA-44DB-AC2B-AB719376F1A4" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="0AD52C3D-02C9-4E1E-AA4B-DE838FC9F749" controlTypeID="Image" x="0" y="0" w="360" h="640" zOrder="0">
+      <rotationAngle>TdNinety</rotationAngle>
+      <URL>F35B6DB626C1E719B4F0FBE0366144F0.jpg</URL>
+    </control>
+    <control controlID="81247657-D6F3-4302-BD40-0DB0F9228040" controlTypeID="Image" x="0" y="515" w="360" h="125" zOrder="1">
+      <URL>26514B4077AA79208C45064D0635775D.PNG</URL>
+    </control>
+    <control controlID="E225545C-A07E-4B7A-90A1-51C0B21300D7" controlTypeID="Shape" x="0" y="475" w="360" h="40" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Type+here</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4032C36D-C8F5-41E2-B4A7-4CED2C4DA5F4" controlTypeID="Label" x="322" y="486" w="33" h="19" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>60%3A00</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="67E5AD59-F91F-4B23-B373-C14ACEB582F9" controlTypeID="Shape" x="114" y="225" w="132" h="43" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Flowers</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4BEA1B8B-8E6C-47B6-9008-8237672442A3" controlTypeID="TextInput" x="0" y="0" w="360" h="39" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%E0%BD%98%E0%BD%BA%E0%BC%8B%E0%BD%8F%E0%BD%BC%E0%BD%82%E0%BC%8B%E0%BD%82%E0%BD%B2%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BD%82%E0%BD%A6</text>
+      <textSize>28</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,79 @@
+﻿<project version="2.9" name="Dzongkha Typing Game" ID="1D39184C-ED78-4A88-B269-5A172AE52006">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(360,640)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Main" ID="E07D4FCF-6E10-47BA-AB02-A7E58825FBA0" expanded="True" code="u6eSUy17wf" thumbCode="u6eSUy17wf" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3F4559300454CCF459EDFD763902FDE7.jpg"/>
+        <image key="5AE79FC8C5B55C76223099735F65F732.jpg"/>
+      </images>
+    </page>
+    <page name="Home" ID="684FA952-0910-46B7-A339-66FB3D1512A8" expanded="True" code="c6MIpEw9G8" thumbCode="ci9Rb3erNB" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A6FBF34563F171D2F9FF132D1B656C64.svg"/>
+        <image key="5AE79FC8C5B55C76223099735F65F732.jpg"/>
+        <image key="227E6FC861DA45F1D24077D4BFA288C9.svg"/>
+        <image key="0E8D9BDD8F5F23FDA05929C0603E7619.jpg"/>
+        <image key="7BB2D95F0EFA37E39F3A9C2C647B54CB.png"/>
+        <image key="C232ECD2B5B508B6AD975E0B3F9BB174.PNG"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="B9AABD6EE1CC4AE439C2B63F94794CE3.jpg"/>
+        <image key="7368E932054EB35095B123FCB5C28A31.svg"/>
+        <image key="0BB625456F9880ADFFF95DF2DDEF9CC7.svg"/>
+        <image key="691E43A0CADD5AF1CA372E5138075E19.svg"/>
+      </images>
+    </page>
+    <page name="colour" ID="4DF5C0CD-DF98-44EA-990F-13EDD1826FBC" expanded="True" code="KfDFlV53GS" thumbCode="KfDFlV53GS" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="26514B4077AA79208C45064D0635775D.PNG"/>
+        <image key="B9AABD6EE1CC4AE439C2B63F94794CE3.jpg"/>
+      </images>
+    </page>
+    <page name="electronic" ID="6FE97818-28A8-458F-8A70-5AA0ECC5E328" expanded="True" code="FkwZuCcHZ7" thumbCode="FkwZuCcHZ7" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="26514B4077AA79208C45064D0635775D.PNG"/>
+        <image key="B9AABD6EE1CC4AE439C2B63F94794CE3.jpg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Song" ID="AE182F86-AEE3-4840-9CCE-66778041AA08" expanded="True" code="Cly9Mn8Lp5" thumbCode="JVqmmG8o1K" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Story" ID="58ABC759-18F3-4825-886D-A69183E6EA58" expanded="True" code="OjStmIje3F" thumbCode="cPiVvNUGjT" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="flowers" ID="8F6B1A86-9AAE-4413-A7D9-DFD1B6866BB1" expanded="True" code="3tShNB2trs" thumbCode="IEVGI1ZpMV" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="electronic" ID="CA98B1AD-A8BA-44DB-AC2B-AB719376F1A4" expanded="True" code="ce4Y3XxU7Q" thumbCode="BtgaKnFntS" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="26514B4077AA79208C45064D0635775D.PNG"/>
+        <image key="F35B6DB626C1E719B4F0FBE0366144F0.jpg"/>
+      </images>
+    </page>
+    <page name="electronic" ID="3861CFFF-13C1-4E83-9F90-BB30D987C4C0" expanded="True" code="JMW7Badf8d" thumbCode="nLzGUrj3nO" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Developer" ID="773E075D-4F5D-4889-98F9-BC10C78F9F32" expanded="True" code="WCvF9cAsGj" thumbCode="CK3XCElXG6" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="35CB8028D8FA307F6E5C80BE6FDFAD54.jpg"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="A6FBF34563F171D2F9FF132D1B656C64.svg"/>
+    <image key="227E6FC861DA45F1D24077D4BFA288C9.svg"/>
+    <image key="F35B6DB626C1E719B4F0FBE0366144F0.jpg"/>
+    <image key="7BB2D95F0EFA37E39F3A9C2C647B54CB.png"/>
+    <image key="C232ECD2B5B508B6AD975E0B3F9BB174.PNG"/>
+    <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+    <image key="5AE79FC8C5B55C76223099735F65F732.jpg"/>
+    <image key="691E43A0CADD5AF1CA372E5138075E19.svg"/>
+    <image key="35CB8028D8FA307F6E5C80BE6FDFAD54.jpg"/>
+    <image key="3F4559300454CCF459EDFD763902FDE7.jpg"/>
+    <image key="26514B4077AA79208C45064D0635775D.PNG"/>
+    <image key="0E8D9BDD8F5F23FDA05929C0603E7619.jpg"/>
+    <image key="B9AABD6EE1CC4AE439C2B63F94794CE3.jpg"/>
+    <image key="7368E932054EB35095B123FCB5C28A31.svg"/>
+    <image key="0BB625456F9880ADFFF95DF2DDEF9CC7.svg"/>
+  </images>
+</project>

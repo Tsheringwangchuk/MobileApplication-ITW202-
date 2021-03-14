@@ -1,0 +1,33 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E07D4FCF-6E10-47BA-AB02-A7E58825FBA0" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="35271816-0CE6-44D5-BB43-64D4BA4EEB75" controlTypeID="Image" x="0" y="0" w="360" h="640" zOrder="0">
+      <URL>3F4559300454CCF459EDFD763902FDE7.jpg</URL>
+    </control>
+    <control controlID="66989011-52F5-47D3-B291-02EFAF996B21" controlTypeID="Image" x="29" y="306" w="292" h="157" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="684FA952-0910-46B7-A339-66FB3D1512A8" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{4113B739-D715-4249-B0B8-3ADAAB8099D6}" coords="(0,0,292,157)"/>
+        </link>
+      </links>
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>5AE79FC8C5B55C76223099735F65F732.jpg</URL>
+    </control>
+    <control controlID="CF58F49A-AF5C-406E-BAE3-0BBA94BC18B3" controlTypeID="TextInput" x="0" y="0" w="360" h="39" zOrder="2">
+      <color>4281597951</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Dzongkha+Typing+Game</text>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
