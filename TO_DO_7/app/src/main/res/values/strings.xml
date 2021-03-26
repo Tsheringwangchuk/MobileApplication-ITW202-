@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TO_DO_7</string>
+    <string name="hint">Type Your Text here</string>
+    <string name="reply">Enter your reply here</string>
+    <string name="Text">0</string>
+    <string name="count">count</string>
+</resources>
