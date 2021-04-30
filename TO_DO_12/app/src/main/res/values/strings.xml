@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TO_DO_12</string>
+    <string name="message1">You ordered an apple.</string>
+    <string name="message2">You ordered a straw berry.</string>
+    <string name="message3">You ordered an orange.</string>
+    <string name="apple">They grow on the apple tree originally from Central Asia.\n
+        Apples are high in fiber, vitamin C, and various antioxidants.\n</string>
+    <string name="straw">
+        Technically, it is an aggregate accessory fruit, meaning that the fleshy part is derived \n
+        not from the plant ovaries but from the receptacle that holds the ovaries.
+    </string>
+</resources>
