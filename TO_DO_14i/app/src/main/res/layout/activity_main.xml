@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/Theme.TO_DO_12.AppBarOverlay"
+        tools:ignore="MissingConstraints">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"/>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="2dp"
+            android:background="@color/teal_200"
+            android:text="Apple"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="180dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="20dp"
+            android:visibility="invisible"
+            android:background="@color/teal_200"
+            android:text="@string/apple"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="25dp"
+            android:onClick="apple"
+            android:scaleType="fitXY"
+            android:src="@drawable/apple" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView1"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/teal_200"
+            android:text="Straw Berry"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView1"
+            android:layout_marginLeft="180dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/teal_200"
+            android:visibility="invisible"
+            android:text="@string/straw"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@id/imageView1"
+            android:layout_marginTop="35dp"
+            android:onClick="strawberry"
+            android:scaleType="fitXY"
+            android:src="@drawable/berry" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView2"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="15dp"
+            android:background="@color/teal_200"
+            android:text="Orange"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView33"
+            android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView2"
+            android:layout_marginLeft="180dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/teal_200"
+            android:text="@string/straw"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@+id/imageView2"
+            android:layout_marginTop="40dp"
+            android:onClick="orange"
+            android:scaleType="fitXY"
+            android:src="@drawable/orange" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/floatingActionButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView3"
+            android:layout_marginLeft="340dp"
+            android:layout_marginTop="90dp"
+            android:clickable="true"
+            app:fabSize="normal"
+            app:srcCompat="@drawable/outline_call_black_24dp" />
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
