@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/rers/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android">
+    <group android1:checkableBehavior="single">
+        <item
+            android1:id="@+id/camera"
+            android1:title="Import"
+            android1:icon="@drawable/ic_baseline_camera_alt_24"/>
+        <item
+            android1:id="@+id/gallery"
+            android1:title="Gallery"
+            android1:icon="@drawable/ic_gallery"/>
+        <item
+            android1:id="@+id/slideshow"
+            android1:title="SlideShow"
+            android1:icon="@drawable/ic_baseline_slideshow_24"/>\
+        <item
+            android1:id="@+id/tool"
+            android1:title="Tools"
+            android1:icon="@drawable/ic_baseline_build_24"/>
+    </group>
+    <group android1:checkableBehavior="none">
+            <item android1:title="Communicate"/>
+        <menu>
+            <item android1:id="@+id/share"
+                android1:title="Share"
+                android1:icon="@drawable/ic_baseline_share_24"/>
+            <item android1:id="@+id/send"
+                android1:title="Send"
+                android1:icon="@drawable/ic_baseline_send_24"/>
+        </menu>
+    </group>
+
+
+</menu>

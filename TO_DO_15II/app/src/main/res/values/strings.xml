@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TO_DO_15II</string>
+    <string name="opennavdrawer">Open Drawer</string>
+    <string name="closenavdrawer">Close Drawer</string>
+</resources>
