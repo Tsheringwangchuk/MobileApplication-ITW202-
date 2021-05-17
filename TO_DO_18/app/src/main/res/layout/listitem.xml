@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    <ImageButton
+        android:id="@+id/imagesports"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/title"
+        android:text="Title"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:padding="8dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/news"
+        android:text="News"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        android:layout_alignBottom="@+id/imagesports"
+        android:layout_below="@+id/imagesports"
+        android:padding="8dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/subtitle"
+        android:text="Here is some news"
+        android:layout_below="@+id/news"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        android:padding="8dp"/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
